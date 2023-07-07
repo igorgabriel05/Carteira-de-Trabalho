@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background: black;
+    height: 80px;
+    position: fixed;
+    width: 100%;
+}
+
+.cabecalho h1 {
+    font-size: 30px;
+    color: dodgerblue;
+    height: 10px;
+    display: flex;
+    margin-right: 50px;
+    padding: 20px 0 0 30px;
+}
+
+.info {
+    margin-left: 83rem;
+    word-spacing: 3.5rem;
+}
+
+.info .espaco{
+    word-spacing: 0;
+}
+
+.info a {
+    color: rgb(243, 243, 243);
+    font-size: 21px;
+    text-decoration: none;
+}
+
+.inicio h1.mensagem-inicial {
+    color: royalblue;
+    font-size: 50px;
+}
+
+.inicio {
+    padding: 20rem 0 420px 2.5rem;
+    background: url('../img/carteira-de-trabalho-digital.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.inicio h1 {
+    font-size: 40px;
+    color: black;
+}
