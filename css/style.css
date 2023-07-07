@@ -54,3 +54,20 @@ header {
     font-size: 40px;
     color: black;
 }
+
+.sobre {
+    background-color: royalblue;
+    padding: 4rem 4rem 6rem 4rem;
+}
+
+.sobre h1 {
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+    color: white;
+}
+
+.sobre p {
+    font-size: 1.7rem;
+    color: white;
+}
