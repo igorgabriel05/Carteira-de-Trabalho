@@ -131,3 +131,67 @@ header {
     font-size: 1.7rem;
     color: royalblue;
 }
+
+.passo-a-passo{
+    background-color: royalblue;
+    padding: 4rem 4rem 6rem 4rem;
+}
+
+.passo-a-passo h1{
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+    color: white;
+}
+
+.passo-a-passo h2{
+    color: white;
+}
+
+.passo-a-passo a {
+    color: red;
+    text-decoration: none;
+}
+
+.passo-a-passo p {
+    font-size: 1.7rem;
+    color: white;
+    padding-bottom: 30px;
+}
+
+.contato {
+    padding: 2rem 2rem 4.4rem 2rem;
+    background: linear-gradient(62deg, rgb(58, 61, 64) 0%, rgb(24, 23, 25) 100%);
+}
+
+.contato h1 {
+    text-align: center;
+    padding-bottom: 2rem;
+    color: white;
+    font-size: 3rem;
+}
+
+.contato a {
+    color: blueviolet;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.contato .ref {
+    word-spacing: 50px; 
+    margin-left: 680px;
+    padding-top: 50px;
+}
+
+.linha{
+    padding: 4px;
+    background-color: crimson;
+}
+
+.final{
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(62deg, rgb(58, 61, 64) 0%, rgb(24, 23, 25) 100%);
+    color: blueviolet;
+    font-size: 30px;
+}
