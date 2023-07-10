@@ -71,3 +71,63 @@ header {
     font-size: 1.7rem;
     color: white;
 }
+
+.como-funciona {
+    background-color: white;
+    padding: 4rem 4rem 6rem 4rem;
+}
+
+.como-funciona h1 {
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+    color: royalblue;
+}
+
+.como-funciona a{
+    text-decoration: none;
+    color: crimson;
+}
+
+.como-funciona p {
+    font-size: 1.7rem;
+    color: royalblue;
+}
+
+.documentos {
+    background-color: royalblue;
+    padding: 4rem 4rem 6rem 4rem;
+}
+
+.documentos h1 {
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+    color: white;
+}
+
+.documentos li {
+    font-size: 1.7rem;
+    color: white;
+}
+
+.vantagem {
+    background-color: white;
+    padding: 4rem 4rem 6rem 4rem;
+}
+
+.vantagem h1 {
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+    color: royalblue;
+}
+
+.vantagem h2{
+    color: royalblue;
+}
+
+.vantagem li {
+    font-size: 1.7rem;
+    color: royalblue;
+}
